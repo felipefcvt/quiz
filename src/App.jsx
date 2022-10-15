@@ -3,7 +3,6 @@ import './App.css'
 import { useContext, useEffect } from 'react'
 import { QuizContext } from './context/quiz'
 
-//recriar
 import Welcome from './components/Welcome'
 import Question from './components/Question'
 import GameOver from './components/GameOver'
