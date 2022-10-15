@@ -1,6 +1,7 @@
 {
   "name": "v1",
   "private": true,
+  "homepage": "https://felipefcvt.github.io/tes",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
